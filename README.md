@@ -11,3 +11,5 @@ To install the necessary dependencies, you can run the following commands in you
 !pip install torch
 !pip install accelerate
 ```
+## You can find my trained model here
+[Link](https://huggingface.co/adi2606/Menstrual-health-Awareness)
