@@ -6,7 +6,7 @@ A chatbot trained on a dataset related to menstrual health awareness, using a pr
 
 To install the necessary dependencies, you can run the following commands in your Jupyter Notebook:
 
-```python
+```jupyter
 !pip install transformers
 !pip install torch
 !pip install accelerate
