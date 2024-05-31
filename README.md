@@ -1,7 +1,7 @@
 # Menstrual Health Awareness Model
 
 This is designed to answer questions related to menstrual health using a dataset of questions and answers on the topic. 
-## you can use my my link and downlad locally to
+## you can use my trained model link :-
 [Link](https://huggingface.co/adi2606/Menstrual-Health-Awareness-Chatbot)
 ## Model Use Guide
 ```python
