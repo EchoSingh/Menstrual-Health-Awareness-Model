@@ -33,7 +33,7 @@ print(response)
 
 This model aims to provide accurate and relevant answers to questions about menstrual health. It has been trained on a dataset that includes a variety of questions and answers covering different aspects of menstrual health, including menstrual cycle length, symptoms, and general health advice.
 
-- **Developed by:** [Aditya Singh]
+
 - **Model type:** Sequence-to-sequence language model
 - **Language(s) (NLP):** English
 - **License:** MIT
