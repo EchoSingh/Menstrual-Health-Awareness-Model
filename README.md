@@ -12,4 +12,4 @@ To install the necessary dependencies, you can run the following commands in you
 !pip install accelerate
 ```
 ## You can find my trained model here
-[Link](https://huggingface.co/adi2606/Menstrual-health-Awareness)
+[Link](https://huggingface.co/adi2606/Menstrual-Health-Awareness-Chatbot)
